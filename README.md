@@ -16,8 +16,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/chat-pdf-with-gemini.git
-   cd chat-pdf-with-gemini
+   https://github.com/Vedant1033/MultiPDF-Query.git
    ```
 
 2. **Set Up Environment**:
@@ -38,24 +37,3 @@ To run this project locally, follow these steps:
    streamlit run app.py
    ```
 
-## Usage
-
-1. **Upload PDF Files**: Use the sidebar to upload your PDF documents.
-2. **Process Files**: Click "Submit & Process" to extract text and create a vector store.
-3. **Ask Questions**: Enter your question in the main input field to receive answers based on the PDF content.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure your code adheres to the project's coding standards and includes relevant tests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries or feedback, please open an issue or contact the repository owner.
-
----
-
-Feel free to customize this description to better fit your project's specifics or any additional features you may have!
